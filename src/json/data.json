@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "_id": "abc123",
+      "category": "Projects",
+      "title": "TownHouse",
+      "imageUrl": "./media/Carmel-Valley-Townhouse.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Projects",
+      "title": "House",
+      "imageUrl": "./media/house.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Projects",
+      "title": "Apartment",
+      "imageUrl": "./media/33.jpg"
+    },
+    
+    {
+      "_id": "abc123",
+      "category": "La Jolla",
+      "title": "Villa",
+      "imageUrl": "./media/villa.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "La Jolla",
+      "title": "House",
+      "imageUrl": "./media/9.jpg"
+    },
+
+    {
+      "_id": "abc123",
+      "category": "San Diego",
+      "title": "LandScape",
+      "imageUrl": "./media/landscape.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "San Diego",
+      "title": "Pupcake Special",
+     
+      "imageUrl": "./media/dessert2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "San Diego",
+      "title": "Brownis",
+      "imageUrl": "./media/dessert3.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "San Diego",
+      "title": "Cup Cake",
+     
+      "imageUrl": "./media/dessert4.jpg"
+    }
+  ],
+  "Places": [
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/21.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/11.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/34.jpg"
+    }
+  ]
+}
