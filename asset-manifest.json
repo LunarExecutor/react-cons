@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cons/static/css/main.099e728b.css",
+    "main.js": "/react-cons/static/js/main.41a43e19.js",
+    "index.html": "/react-cons/index.html",
+    "main.099e728b.css.map": "/react-cons/static/css/main.099e728b.css.map",
+    "main.41a43e19.js.map": "/react-cons/static/js/main.41a43e19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.099e728b.css",
+    "static/js/main.41a43e19.js"
+  ]
+}
